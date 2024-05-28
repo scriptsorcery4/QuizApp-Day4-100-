@@ -41,8 +41,8 @@ Follow these steps to clone the repository and run the application locally:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/quizapp.git
-    cd quizapp
+    git clone https://github.com/scriptsorcery4/QuizApp-Day4-100-.git
+    cd QuizApp-Day4-100-
     ```
 
 2. **Set up the client**:
@@ -58,5 +58,5 @@ Follow these steps to clone the repository and run the application locally:
     ```bash
     cd ../server
     npm install
-    npm start
+    npm run dev
     ```
